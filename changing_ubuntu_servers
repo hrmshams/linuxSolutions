@@ -1,0 +1,8 @@
+
+
+Open your sources.list file using your favorite text editor, e.g.
+
+sudo nano /etc/apt/sources.list
+
+Locate the text http://us.archive.ubuntu.com/ubuntu and replace it with http://archive.ubuntu.com/ubuntu.
+
